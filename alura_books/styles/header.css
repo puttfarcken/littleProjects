@@ -140,7 +140,8 @@
 
     .lista-menu__item:hover>.lista-menu__link{
         -webkit-text-fill-color: var(--branco);
-        text-decoration: none;
+        text-decoration: none
+        ;
     }
 }
 
