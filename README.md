@@ -4,3 +4,4 @@ Projetos curtos com objetivo de exercitar linguagens. Feitos a partir de aprendi
 - Barbearia (HTML - CSS)
 - HZC - Skate (HTML - CSS - JS - Mobile First (Flexbox - Grid))
 - Books (Responsividade - Mobile First)
+- Interface Musical (JS) 
